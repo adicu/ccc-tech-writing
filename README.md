@@ -16,4 +16,6 @@ Here are some examples to read through:
 
 # Cookies & Code Exercise
 
-Brainstorm 1-2 possible article ideas! 
+Brainstorm 1-2 possible article ideas and work on them! (Feel free to work on these beforehand and come in with drafts) 
+
+[Twilio Voices]() offers $500 for each article that's published on their website, so once you have one in good shape, ADI will connect you to Twilio developers who will work with you on this!
